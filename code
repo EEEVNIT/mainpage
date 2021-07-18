@@ -1,0 +1,26 @@
+<html>
+<head>
+   <title> EEE Student Activity Center </title>
+</head>
+<body style="background-color:lightgreen;" >
+<H1><FONT  COLOR="red" style="font-family:Castellar;"><CENTER><b> EEE Student Activity Center </b></FONT></H1>
+<H2>
+<font size="4"><CENTER>   
+<tr><a href="http://vnit.ac.in/" target="_blank"> VNIT Home | </a></tr>
+<tr><a href="https://vnit.ac.in/academic/index.php/student-notice-board/" target="_blank"> Student Notice Board | </a></tr>
+<tr><a href="http://aims.vnit.ac.in/exam/faces/infrastructure/SLogin.jsf" target="_blank"> AIMS Website | </a></tr>
+<tr><a href="https://alansam123.github.io/eeevnit/calender.html" target="_blank"> Calender </a></tr>
+<tr><a href="https://drive.google.com/drive/folders/1RsFUkZLpgY1bEggMq_0yb1sNYLeGw5mz?usp=sharing" target="_blank"> | Study Material Drive | </a></tr>  
+<tr><a href="https://drive.google.com/drive/folders/1Bpd1Pld_OR7ggDCKaxgATUM7p2BAZuSz?usp=sharing" target="_blank"> W21 OC Syllabus </a></tr>
+</H2>
+<marquee behavior="scroll" direction="left" COLOR="lightred"><i> Happy Vacations, Stay home and stay safe. Hope to see you all in college soon. </i></marquee>
+
+<font size="4">
+<table border="2" cellspacing="2" align="left">
+<tr><td>  
+<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FKolkata&amp;src=MGU1ZG02bmw2dG12c29oMzhoaXExdmxkZThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;showTitle=1&amp;showNav=1&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA" style="border:solid 1px #777" width="224" height="400" frameborder="0" scrolling="no"></iframe>
+</tr>
+
+  
+</body>    
+</html>
